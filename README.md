@@ -2,8 +2,8 @@
 Using http://www.quickdatabasediagrams.com I made an Entity Relationship Diagram (ERD) for the assignment CSVs.
 
 I checked to see if each column was unique in each CSV. 
-For duplicated columns, I created composite keys, and I created primary keys for unique columns.
-I created a table schema for each CSV by importing each CSV into the SQL table I had made for it.
+I created primary keys for unique columns.
+I created an SQL table schema for each CSV and imported each CSV into the SQL table I had made for it.
 
 
 
@@ -15,4 +15,4 @@ I listed each employee's department, showing employee #, employee names, and dep
 I found all of the emplyees with first name "Hercules" and a last initial of "B" and displayed names and sex for all of those employees.
 I listed employee #s, names, and department names for all the Sales dept. employees.
 I listed all employee #s, names, and department names for all the employees in Sales and in Development.
-I made a list of the counts of all the last names of employees, in order of descending count.
+Finally, I made a list of the counts of all the last names of employees, in order of decreasing count.
