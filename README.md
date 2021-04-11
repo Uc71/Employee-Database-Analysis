@@ -1,4 +1,4 @@
-# sql-challenge
+# Employee Database Analysis
 Using http://www.quickdatabasediagrams.com, I made an Entity Relationship Diagram (ERD) for the assignment CSVs.
 
 I checked to see if each column was unique in each CSV. 
